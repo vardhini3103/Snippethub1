@@ -16,7 +16,7 @@ const Hero = () => {
 
       <div className="flex justify-center">
         <NavLink
-          to="https://github.com/your-repo-url"
+          to="https://github.com/megh-bari/pastehub"
           target="_blank"
           rel="noopener noreferrer"
         >
